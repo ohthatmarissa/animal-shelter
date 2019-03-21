@@ -24,7 +24,7 @@
 
 .column3 {
   width: 300px;
-  float: right;
+  float: left;
   border: 4px solid blue;
   padding: 8px;
 }
